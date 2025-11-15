@@ -1,15 +1,6 @@
 {
   "name": "ReactTestingLibrary",
   "tree": {
-    "$className": "Folder",
-    "Packages": {
-      "$path": "Packages",
-      "ReactTestingLibrary": {
-        "$path": "src"
-      },
-      "TestsSetup": {
-        "$path": "tests"
-      }
-    }
+    "$path": "src"
   }
 }

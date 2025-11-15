@@ -1,5 +1,6 @@
 Packages/*
 !Packages/.robloxrc
+node_modules
 
 rotriever.lock
 roblox.toml
